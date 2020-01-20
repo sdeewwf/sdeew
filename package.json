@@ -1,0 +1,30 @@
+{
+  "name": "sdeew",
+  "version": "1.0.0",
+  "description": "first mern app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdeewwf/sdeew.git"
+  },
+  "keywords": [
+    "mern",
+    "react",
+    "reac-native"
+  ],
+  "author": "sdeew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdeewwf/sdeew/issues"
+  },
+  "homepage": "https://github.com/sdeewwf/sdeew#readme",
+  "dependencies": {
+    "config": "^3.2.5",
+    "express": "^4.17.1",
+    "express-validator": "^6.3.1",
+    "mongoose": "^5.8.9"
+  }
+}
