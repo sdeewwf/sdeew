@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server" : "node index",
-    "client" : "npm start --prefix my-app",
-    "dev" : "concurrently \"npm run server\" \"npm run client\""
+    "server": "node index",
+    "client": "npm start --prefix my-app",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "repository": {
     "type": "git",
@@ -32,5 +32,8 @@
     "moment": "^2.24.0",
     "mongoose": "^5.8.9",
     "react-moment": "^0.9.7"
+  },
+  "devDependencies": {
+    "concurrently": "^5.1.0"
   }
 }
