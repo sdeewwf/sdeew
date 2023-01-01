@@ -26,7 +26,7 @@
   "homepage": "https://github.com/sdeewwf/sdeew#readme",
   "dependencies": {
     "axios": "^0.19.2",
-    "config": "^3.2.5",
+    "config": "^3.3.8",
     "express": "^4.17.1",
     "express-validator": "^6.3.1",
     "moment": "^2.24.0",
